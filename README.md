@@ -104,7 +104,7 @@ Email sending is handled through an `EmailSender` interface.
 - **Gradle**
 
 ## Project Structure
-library
+ library
  ├── api                # domain models
  ├── data               # serialization and file storage
  ├── notifications      # email sending interface
